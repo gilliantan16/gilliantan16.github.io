@@ -1,0 +1,34 @@
+body {
+    background: #E3B9BC;
+}
+.Title {
+    font-family: 'Staatliches', cursive;
+    font-size: 30;
+    color: white;
+    margin-top: 10;
+    margin-left: 520;
+}
+.Quote {
+    font-size: 20;
+    color: grey;
+    margin-top: -50;
+    margin-left: 50;
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
+    padding-right: 50;
+}
+.Content{
+    font-size: 25;
+    color: white;
+    margin-top: 30;
+    margin-left: 50;
+    font-family: 'BenchNine', sans-serif;
+    text-align: justify;
+    padding-right: 50;
+}
+.Back{
+    font-size: 15;
+    margin-top: 50;
+    margin-left: 1050;
+    font-family: 'Courier New';
+}

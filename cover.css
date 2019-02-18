@@ -1,0 +1,87 @@
+body {
+    background: #F6F7EB;
+}
+.Picture1{
+    margin-top: -10;
+    margin-left: 800;
+}
+.Picture2{
+    margin-top: 0;
+    margin-left: 800;
+}
+.Picture3{
+    margin-top: 0;
+    margin-left: 800;
+}
+.Words{
+    margin-top: -550;
+    margin-left: 200;
+    line-height: 0.1;
+    font-size: 25;
+    color: grey;
+    font-family: 'Khula', sans-serif;
+}
+.Words1{
+    margin-top: 0;
+    margin-left: 200;
+    line-height: 0.1;
+    font-size: 25;
+    color: grey;
+    font-family: 'Khula', sans-serif;
+}
+.Number1{
+    margin-top: 15;
+    margin-left: 200;
+    line-height: 0.01;
+    font-size: 15;
+    color: grey;
+    font-family: 'Courier New';
+}
+.Message1{
+    margin-top: 0;
+    margin-left: 200;
+    line-height: 0;
+    font-size: 25;
+    color: grey;
+    font-family: 'Pacifico', cursive;
+}
+.Number2{
+    margin-top: 0;
+    margin-left: 200;
+    line-height: 0.01;
+    font-size: 15;
+    color: grey;
+    font-family: 'Courier New';
+}
+.Message2{
+    margin-top: 0;
+    margin-left: 200;
+    line-height: 0;
+    font-size: 25;
+    color: grey;
+    font-family: 'Pacifico', cursive;
+}
+.Number3{
+    margin-top: 0;
+    margin-left: 200;
+    line-height: 0.01;
+    font-size: 15;
+    color: grey;
+    font-family: 'Courier New';
+}
+.Message3{
+    margin-top: 0;
+    margin-left: 200;
+    line-height: 0;
+    font-size: 25;
+    color: grey;
+    font-family: 'Pacifico', cursive;
+}
+.Home{
+    margin-top: 80;
+    margin-left: 1175;
+    line-height: 0.01;
+    font-size: 20;
+    color: grey;
+    font-family: 'Courier New';
+}

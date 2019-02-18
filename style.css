@@ -1,0 +1,25 @@
+body {
+    background-image: url(indexbg.png);
+    font-family: 'Khula', sans-serif;
+    line-height: 0.1;
+    font-size: 23
+}
+.container{
+    padding-top: 250px;
+    text-align: center;
+     margin: 0 auto;
+     width: 100px; 
+    color: grey;
+}
+.column{
+    padding: 10
+}
+#picture{
+    margin-top: -150
+}
+#quote{
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center; 
+    margin: auto;
+    padding-top: 20;
+}
